@@ -1,0 +1,11 @@
+D:\Projects\Rowdy Racers\RowdyRacers.GUI.Model\bin\Debug\RowdyRacers.GUI.Model.dll
+D:\Projects\Rowdy Racers\RowdyRacers.GUI.Model\bin\Debug\RowdyRacers.GUI.Model.pdb
+D:\Projects\Rowdy Racers\RowdyRacers.GUI.Model\bin\Debug\RowdyRacers.Domain.dll
+D:\Projects\Rowdy Racers\RowdyRacers.GUI.Model\bin\Debug\RowdyRacers.Domain.pdb
+D:\Projects\Rowdy Racers\RowdyRacers.GUI.Model\obj\Debug\RowdyRacers.GUI.Model.csprojAssemblyReference.cache
+D:\Projects\Rowdy Racers\RowdyRacers.GUI.Model\obj\Debug\RowdyRacers.GUI.Model.Properties.Resources.resources
+D:\Projects\Rowdy Racers\RowdyRacers.GUI.Model\obj\Debug\RowdyRacers.GUI.Model.csproj.GenerateResource.cache
+D:\Projects\Rowdy Racers\RowdyRacers.GUI.Model\obj\Debug\RowdyRacers.GUI.Model.csproj.CoreCompileInputs.cache
+D:\Projects\Rowdy Racers\RowdyRacers.GUI.Model\obj\Debug\RowdyRacers.GUI.Model.csproj.CopyComplete
+D:\Projects\Rowdy Racers\RowdyRacers.GUI.Model\obj\Debug\RowdyRacers.GUI.Model.dll
+D:\Projects\Rowdy Racers\RowdyRacers.GUI.Model\obj\Debug\RowdyRacers.GUI.Model.pdb

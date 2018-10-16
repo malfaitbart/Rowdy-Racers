@@ -1,0 +1,6 @@
+D:\Projects\Rowdy Racers\RowdyRacers.Domain\bin\Debug\RowdyRacers.Domain.dll
+D:\Projects\Rowdy Racers\RowdyRacers.Domain\bin\Debug\RowdyRacers.Domain.pdb
+D:\Projects\Rowdy Racers\RowdyRacers.Domain\obj\Debug\RowdyRacers.Domain.csprojAssemblyReference.cache
+D:\Projects\Rowdy Racers\RowdyRacers.Domain\obj\Debug\RowdyRacers.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Rowdy Racers\RowdyRacers.Domain\obj\Debug\RowdyRacers.Domain.dll
+D:\Projects\Rowdy Racers\RowdyRacers.Domain\obj\Debug\RowdyRacers.Domain.pdb
